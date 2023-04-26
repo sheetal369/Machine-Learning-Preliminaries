@@ -1,1 +1,1 @@
-# Machine-Learning-ML-Preliminaries
+# Machine-Learning-Preliminaries
